@@ -8,6 +8,7 @@
 - [EHR Chapter 1 Lecture: Introduction to Electronic Health Records](https://www.youtube.com/watch?v=9nVd3-gKP0g)_
 - [EMR vs EHR: What’s the Difference?](https://www.youtube.com/watch?v=dgVaB2olgA4)
 - [2024 EPIC Electronic Medical Record (EMR) Training: Essential eHealth Modules & Functions](https://www.youtube.com/watch?v=zQXhvPBWv18)
+- - [HL7 Training | HL7 Tutorial For Beginners | IBM IT Solutions](https://www.youtube.com/watch?v=dAcVUuhJwSE)
 
 ##
 
