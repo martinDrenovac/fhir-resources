@@ -9,3 +9,4 @@
 - [Open EPic Sandbox Endpoints](https://open.epic.com/MyApps/EndPoints)
 
 # Appendix
+- [Labs: De-identify DICOM Data with the Healthcare API](https://www.cloudskillsboost.google/focuses/6920?parent=catalog)
